@@ -92,10 +92,6 @@ ul li a:hover {
   background-color: var(--extra-light);
 }
 
-.bg {
-  background-image: url("assets/hima.jpg");
-  background-repeat: no-repeat;
-}
 .section__container {
   min-height: 100vh;
   max-width: var(--max-width);

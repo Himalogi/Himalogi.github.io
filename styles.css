@@ -92,10 +92,6 @@ ul li a:hover {
   background-color: var(--extra-light);
 }
 
-.bg {
-  background-image: url('assets/bg.jpg');
-}
-
 .section__container {
   min-height: 100vh;
   max-width: var(--max-width);
@@ -142,7 +138,7 @@ ul li a:hover {
   line-height: 1.5rem;
   color: var(--text-dark);
   margin-bottom: 2rem;
-  text-align: justify;
+  text-align: left;
 }
 
 .action__btns {
@@ -209,4 +205,16 @@ ul li a:hover {
   .action__btns {
     margin: auto;
   }
+}
+
+.futer {
+  background-color: #008080;
+  color: white;
+  padding: 1.4rem;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.futer2 {
+  font-size: 0.9rem;
 }
